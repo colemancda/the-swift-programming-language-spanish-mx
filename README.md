@@ -2,9 +2,7 @@
 
 Spanish (Mexico) translation of ‘The Swift Programming Language’ book.
 
-This project makes use of [Pandoc](http://pandoc.org/installing.html) to compile the markdown to an ePub.
-
-Compiled ePubs can be found in the [releases](https://github.com/Cananito/the-swift-programming-language-spanish-mx/releases) section.
+ePubs can be found in the [releases](https://github.com/Cananito/the-swift-programming-language-spanish-mx/releases) section.
 
 Tagging/versioning will follow the Language’s version numbers.
 
