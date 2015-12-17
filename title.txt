@@ -1,5 +1,0 @@
----
-title: El Lenguaje de Programación Swift
-rights: Creative Commons Attribution 4.0 International (CC BY 4.0) License.
-language: es-MX
-...
