@@ -17,6 +17,7 @@ To get a document assigned, please create a GitHub [Issue](https://github.com/Ca
 ### Convenciones
 
 * Uso de [tuteo](https://es.wikipedia.org/wiki/Tuteo) para pronombres personales de la segunda persona. (Referise al lector de tú, no usted.)
+* Uso del [se impersonal](https://es.wikipedia.org/wiki/Tipolog%C3%ADa_de_las_oraciones_con_%27%27se%27%27_en_espa%C3%B1ol#Se_impersonal) para referise a la voz del escritor. Ejemplo: “Como se explicó anteriormente.”
 * Uso de [lenguaje de género neutro](http://www.ciidet.edu.mx/ciidet/documentos/meg/MANUAL_USONOSEXISTA.pdf).
 * Apegarse a [Traducciones Técnicas Comunes](https://github.com/Cananito/the-swift-programming-language-spanish-mx/wiki/Traducciones-T%C3%A9cnicas-Comunes).
 * No traducir código.
